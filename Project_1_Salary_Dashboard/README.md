@@ -28,5 +28,3 @@ This map helps us visualize the role salaries in specific countries and quickly 
 ![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/job_type.png)
 
 This bar chart shows how salaries vary based on job type. It indicates that full-time roles have the highest salaries.
-
-Thank you for exploring my Excel projects! I hope they provide valuable insights into data analysis using Excel.

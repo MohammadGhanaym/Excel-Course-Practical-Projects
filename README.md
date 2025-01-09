@@ -11,11 +11,10 @@ The course is hosted on YouTube and it is name is [Excel for Data Analytics - Fu
    
    [Checkout my Work Here](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/tree/main/Project_1_Salary_Dashboard)
    
-![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/salary_dashboard.gif)
-
+<img src="https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/salary_dashboard.gif" width="auto" height="auto">
 
 ## 2. Salary Analysis
-   This analysis focus more in analysing skills reqiurd for data jobs and how it is related to jobs salaries.
+   This analysis focuses on evaluating the skills required for data-related jobs and examining how these skills correlate with job salaries.
    
    [Checkout my Work Here](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/tree/main/Project_2_Salary_Analysis)
 

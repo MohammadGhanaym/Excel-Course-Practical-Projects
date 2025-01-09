@@ -12,7 +12,19 @@ The dataset used for this project contains real-world data science job informati
 - Formulas and Functions
 - Data Validation
 
-Dashboard Build
+## Dashboard Build
 #### Data Science Job Salaries - Bar Chart
+![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/data_science_jobs_bar_chart.png)
 
-Thank you for exploring my Excel projects! I hope they provide valuable insights into data analysis using Excel.
+We can see that senior roles and engineers earn higher salaries than analyst roles.
+
+
+#### Country Median Salaries - Map Chart
+![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/salary_map_chart.PNG)
+
+This map helps us visualize the role salaries in specific countries and quickly observe how salaries vary from one country to another.
+
+#### Job Type Median Salaries - Bar Chart
+![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/job_type.png)
+
+This bar chart shows how salaries vary based on job type. It indicates that full-time roles have the highest salaries.

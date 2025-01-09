@@ -29,16 +29,19 @@ The following Excel skills were utilized for analysis:
 ## Analysis
 **Insights**
 - Data professionals are more likely to possess SQL and Excel skills, highlighting the importance of these tools for anyone aspiring to secure a job in the data field.
+  
 ![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/skill_likelihood_2.PNG)
 
 **Insights**
 - There is a positive correlation between the number of skills required in job postings and the median salary, especially for roles such as Senior Data Engineer and Data Scientist.  
 - Roles like Business Analyst tend to offer lower salaries and require fewer skills. In contrast, specialized skill sets typically command higher market value.
+  
 ![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/salary_per_skill_2.PNG)
 
 **Insights**
 - Data professionals with expertise in Python, Oracle, and Tableau are more likely to secure higher-salary positions.  
-- Similarly, many job postings require SQL and Excel skills and offer high salaries, highlighting the importance of mastering these tools to pursue a lucrative career.  
+- Similarly, many job postings require SQL and Excel skills and offer high salaries, highlighting the importance of mastering these tools to pursue a lucrative career.
+  
 ![](https://github.com/MohammadGhanaym/Excel-Course-Practical-Projects/blob/main/Images/top_skill_pay_2.PNG)
 
 
